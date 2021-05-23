@@ -1,0 +1,5 @@
+.DS_Store
+oc_p7_db/.DS_Store
+*.xcuserstate
+oc_p7_db.xcodeproj/project.xcworkspace/
+oc_p7_db.xcodeproj/xcuserdata/
